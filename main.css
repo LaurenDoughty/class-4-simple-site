@@ -5,3 +5,8 @@ body {
 h1, p, li {
     color:white;
 }
+
+h1 {
+    font-style: italic;
+    margin-left: 50%;
+}
